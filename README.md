@@ -17,5 +17,5 @@ The chatbot takes user input, sends it to an Ollama model, and displays the resp
 
 Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/streamlit-ollama-chatbot.git
+git clone https://github.com/gautam-rahul-09/streamlit-ollama-chatbot.git
 cd streamlit-ollama-chatbot
